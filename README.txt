@@ -13,7 +13,7 @@ qwert/=+-';  instead of qwertyuiop
 asdfg0<Enter><Backslash>$\' instead of asdfghjkl;°
 zxcvb({[ instead of zxcvbnm,
 
-Run the comand xmodmap no_caps.xmodmap in the terminal.
+Run the comand xmodmap save_inky.xmodmap in the terminal.
 
 For the future I would like to add a further level accessible though Tab to obtain vim navigation key-bindings.
 Also using X keyboard extension might be more convenient.
