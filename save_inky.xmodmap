@@ -16,7 +16,7 @@ keycode  46 = l L dollar L
 keycode  47 = semicolon colon backslash colon
 keycode  48 = Shift_L quotedbl apostrophe quotedbl
 
-keycode  57 = n N escape  N 
+keycode  57 = n N Escape  N 
 keycode  58 = m M parenleft M
 keycode  59 = comma less bracketleft less
 keycode  60 = period greater period greater
