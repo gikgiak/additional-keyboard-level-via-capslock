@@ -7,7 +7,7 @@ There are only three differences to the standard us-keyboard:
 1) The key with the apostrophe, only when pressed alone, becomes Shift.
 2) The space bar and shift when pressed together produce an underscore.
 3) The Capslock key becomes a modifier that, when pressed, gives access to the following layer:
-	=+-p  on the keys for uio
+	=+-  on the keys for uio
 	0<Enter><Backslash>$\' on the keys that where for for hjkl;'
 	)]}| on the keys for nm,.
 
