@@ -3,12 +3,9 @@ clear lock
 !Maps Caps-Lock as Level3 Shift
 keycode 66 = Mode_switch ISO_Level3_Shift
 
-keycode  29 = y Y slash Y
 keycode  30 = u U equal U 
 keycode  31 = i I plus I 
 keycode  32 = o O minus O 
-keycode  33 = p P asterisk P
-
 
 keycode  43 = h H 0 H 
 keycode  44 = j J Return
@@ -17,13 +14,9 @@ keycode  46 = l L dollar L
 keycode  47 = semicolon colon backslash colon
 keycode  48 = Shift_L quotedbl apostrophe quotedbl
 
-keycode  57 = n N parenright N 
+keycode  57 = n N parenright N
 keycode  58 = m M bracketright M
 keycode  59 = comma less braceright less
 keycode  60 = period greater bar greater
 
 keycode  65 = space underscore underscore space 
-
-!not nessessary  
-keycode  40 = d D d D
-keycode  41 = f F f F
