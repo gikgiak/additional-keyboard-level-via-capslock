@@ -13,7 +13,7 @@ qwert/=+-'  instead of qwertyuiop
 asdfg0<Enter><Backslash>$\' instead of asdfghjkl;°
 zxcvb({[ instead of zxcvbnm,
 
-Run the comand xmodmap save_inky.xmodmap in the terminal to activate this changes. You can undo this with: 'setxkbmap layout -it' (or any other standard keyboard as 'us' or 'de').
+Run the comand xmodmap save_inky.xmodmap in the terminal to activate this changes. You can undo this with: 'setxkbmap -layout it' (or any other standard keyboard as 'us' or 'de').
 
 For the future I would like to add a further level accessible though Tab to obtain vim navigation key-bindings.
 Also using X keyboard extension might be more convenient.
